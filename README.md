@@ -3,4 +3,3 @@
 
 Meu nome é Letícia
 
-- Estou estudando no Alura
